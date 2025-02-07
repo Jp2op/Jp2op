@@ -1,20 +1,17 @@
-
-## Hi, I'm Jayant 👋
-
-- 🎓 I'm a Sophomore Electronics and Telecommunication student at JD college of engineering.
-- 🏠 I'm from Nagpur, India and I'm currently learning Python.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jp-undefined-a66a87254/).
-
 <h1 align="center">Hi 👋, I'm Jp</h1>
 <h3 align="center">A passionate DevOps Engineer from Nagpur,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jp2op&label=Profile%20views&color=0e75b6&style=flat" alt="jp2op" /> </p>
 
+- 🎓 I'm a Senior year Electronics and Telecommunication student at DBATU.
+
+- - 🏠 I'm from Nagpur, India and I'm currently learning DevOps.
+  
 - 🌱 I’m currently looking for opportunities in **Devops & AWS**
 
-- 👨‍💻 All of my projects are available at [jp2op.site](jp2op.site)
+- 👨‍💻 All of my projects are available at [jp2op.site](https://jp2op.site/))
 
-- 📫 How to reach me **jpwork8698@gmail.com**
+- 📫 How to reach me **jpwork8698@gmail.com** [LinkedIn](https://www.linkedin.com/in/jp-undefined-a66a87254/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
