@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jp2op&label=Profile%20views&color=0e75b6&style=flat" alt="jp2op" /> </p>
 
-- 🎓 I'm an Electronics and Telecommunication Engineering graduate from DBATU and am actively seeking opportunities in DevOps & AWS.
+- 🎓 I'm an Electronics and Telecommunication Engineering graduate from DBATU.
 
-- 🏠 I'm from Nagpur, India and I'm currently learning DevOps.
+- 🏠 I'm from Nagpur, India and I'm currently learning DevOps since last 1.5 year.
   
 - 🌱 I’m currently looking for opportunities in **Devops & AWS**
 
