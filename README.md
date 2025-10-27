@@ -3,11 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jp2op&label=Profile%20views&color=0e75b6&style=flat" alt="jp2op" /> </p>
 
-- 🎓 I'm an Electronics and Telecommunication Engineering graduate from DBATU.
+- 🎓 I'm an Electronics and Telecommunication Engineering graduate (Class of 2025) from DBATU.
 
-- 🏠 I'm from Nagpur, India and I'm currently learning DevOps since last 1.5 year.
+- 💼 Previously worked as a **DevOps Intern at GiftBucket** and most recently as a **Release Intern at HotelKey**. 
+
+- 🏠 I'm from Nagpur, India and I'm currently learning and exploring DevOps and Cloud since last 2 year.
+
+- ☁️ I'm an **AWS Certified Solutions Architect – Associate**.
   
-- 🌱 I’m currently looking for opportunities in **Devops & AWS**
+- 🌱 I’m currently looking for opportunities in **Devops & AWS/GCP**
 
 - 👨‍💻 All of my projects are available at [jp2op.site](https://jp2op.site/)
 
